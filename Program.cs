@@ -17,8 +17,15 @@ namespace Course
                 Moment = DateTime.Now,
                 Status = OrderStatus.PendingPayment
             };
-        Console.WriteLine(order);
+            global::System.Console.WriteLine(order);
 
+            string txt = OrderStatus.PendingPayment.ToString(); // convert de ENUM para string
+
+            global::System.Console.WriteLine(txt);
+
+            OrderStatus os = Enum.Parse<OrderStatus>("Delivered");// convert de string para ENUM
+
+            global::System.Console.WriteLine(os);
         }
     }
 }
