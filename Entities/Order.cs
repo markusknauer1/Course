@@ -34,9 +34,6 @@ namespace Course.Entities
                0 => pagamento pendente =================> Processando ================> Enviado =================> Entregue => 0
                 Diagrama da UML;
                 diagrama de maquina de estados
-
-
-        
          */
         public int Id { get; set; }
         public DateTime Moment { get; set; }
