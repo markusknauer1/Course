@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CursoUdemy\\Course\\Course.csproj",
+      "projectUniqueName": "C:\\Users\\knaue\\Source\\Repos\\markusknauer1\\Course\\Course.csproj",
       "projectName": "Course",
-      "projectPath": "C:\\CursoUdemy\\Course\\Course.csproj",
+      "projectPath": "C:\\Users\\knaue\\Source\\Repos\\markusknauer1\\Course\\Course.csproj",
       "packagesPath": "C:\\Users\\knaue\\.nuget\\packages\\",
-      "outputPath": "C:\\CursoUdemy\\Course\\obj\\",
+      "outputPath": "C:\\Users\\knaue\\Source\\Repos\\markusknauer1\\Course\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
