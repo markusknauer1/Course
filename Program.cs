@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-using Course.Entities.Enums;
-using Course.Entities;
+﻿
 
 namespace Course
 {
@@ -8,7 +6,7 @@ namespace Course
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hello World!");
         }
     }
 }

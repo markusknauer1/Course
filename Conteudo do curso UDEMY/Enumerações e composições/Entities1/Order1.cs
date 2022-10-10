@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Course.Entities
 {
-    class Order //pedidos
+    class Order1 //pedidos
     {
         /* CLASS ENUM = ENUMERAÇÔES
         

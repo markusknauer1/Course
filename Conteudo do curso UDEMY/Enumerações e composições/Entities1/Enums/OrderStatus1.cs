@@ -7,7 +7,7 @@
         -SHIPPED:int=2                                          -<<enum constant>>SHIPPED:int=2
         -DELIVERED:int=3                                        -<<enum constant>>DELIVERED:int=3
  */
-namespace Course.Entities.Enums
+namespace Course.Entities1.Enums
 {
     enum OrderStatus : int
     {
