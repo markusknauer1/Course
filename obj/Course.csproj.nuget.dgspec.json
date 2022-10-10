@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\knaue\\Source\\Repos\\markusknauer1\\Course\\Course.csproj": {}
+    "C:\\Users\\knaue\\source\\repos\\markusknauer1\\Course\\Course.csproj": {}
   },
   "projects": {
-    "C:\\Users\\knaue\\Source\\Repos\\markusknauer1\\Course\\Course.csproj": {
+    "C:\\Users\\knaue\\source\\repos\\markusknauer1\\Course\\Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\knaue\\Source\\Repos\\markusknauer1\\Course\\Course.csproj",
+        "projectUniqueName": "C:\\Users\\knaue\\source\\repos\\markusknauer1\\Course\\Course.csproj",
         "projectName": "Course",
-        "projectPath": "C:\\Users\\knaue\\Source\\Repos\\markusknauer1\\Course\\Course.csproj",
+        "projectPath": "C:\\Users\\knaue\\source\\repos\\markusknauer1\\Course\\Course.csproj",
         "packagesPath": "C:\\Users\\knaue\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\knaue\\Source\\Repos\\markusknauer1\\Course\\obj\\",
         "projectStyle": "PackageReference",
