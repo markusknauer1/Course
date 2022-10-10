@@ -11,7 +11,7 @@
         "projectName": "Course",
         "projectPath": "C:\\Users\\knaue\\source\\repos\\markusknauer1\\Course\\Course.csproj",
         "packagesPath": "C:\\Users\\knaue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\knaue\\Source\\Repos\\markusknauer1\\Course\\obj\\",
+        "outputPath": "C:\\Users\\knaue\\source\\repos\\markusknauer1\\Course\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
