@@ -1,0 +1,30 @@
+criação de tabela pela SQLQuery:
+CREATE TABLE tabela	(	
+					coluna1(normalmente a coluna ID)SMALLINT PRIMARY KEY IDENTITY,
+					coluna2 especif.,
+					coluna3 especif., e assim por diante sempre dentro de parenteses
+				)
+observação:
+	(ATALHO)para facilitar os serviços, ao colocar varios comandos 
+	e não se perder, bastar selecionar cada comando e apertar F5
+
+
+
+imprimir tabela
+SELECT *(coringa) ou colunas FROM tabela  
+
+atualizar linha de acordo com o filtro:
+UPDATE tabela SET coluna = 'valor' WHERE linha = 'filtro'
+
+inserir dados na tabela pelo SQL;
+INSERT INTO tabela(coluna1, coluna2, coluna3)
+		VALUES( valor1, valor2,  valor3) = precisa ser especificamente na ordem dada na linha INSERT
+
+deletar linha especifica na tabela
+DELETE tabela WHERE linha = 'filtro'
+
+deletar tabela inteira - ATENÇÃO: RISCO DE PERDA DE INFORMAÇÕES SE USADO COM IRRESPONSABILIDADE
+DROP TABLE tabela
+
+
+
